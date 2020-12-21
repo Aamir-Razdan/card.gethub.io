@@ -1,0 +1,97 @@
+
+.card{
+      width:22rem;
+}
+.card-img-top{
+    /* width:70px;*/
+	height:220px;
+}
+.card-title{
+	width:60%;
+	font-size:18px;
+	font-weight:800;
+	margin-top:10px;
+	margin-left:5px;
+	display: inline-block;
+}
+.price{
+	margin-left:30px;
+	width:40%;
+	position:relative;
+	left:180px;
+	top:-50px;
+}
+.price-in-digit{
+	color:#aaaaaa;
+	margin-left:5px;
+	text-decoration: line-through;
+	font-size:20px;
+	position:relative;
+	left:41px;
+}
+.offer-price{
+	display:inline-block;
+	font-size:33px;
+	margin-left:5px;
+	color:#98acf8;
+	font-weight:bold;
+
+}
+.rupee-icon-1{
+	position:relative;
+	left:40px;
+	color:#aaaaaa;
+}
+.rupee-icon-2{
+	height:10px;
+	color:#98acf8;
+}
+.time{
+	position:absolute;
+	bottom:60px;
+	font-size:15px;
+}
+.rating{
+	position:absolute;
+	bottom:10px;
+}
+.clock-time{
+	margin-right:10px;
+	color: blue;
+
+}
+.time-day{
+	font-size:15px;
+	font-weight: 600;
+	color:#aaaaaa;
+	letter-spacing: 2px;
+}
+.offer-price-chader{
+	display:inline-block;
+	font-size:28px;
+	margin-left:10px;
+	color:#98acf8;
+	font-weight:bold;
+
+}
+.offer{
+	/*display: inline-block;*/
+	background-color:#cc7351;
+	position:absolute;
+	height:40px;
+	width:110px;
+	top:40px;
+	padding:5px;
+	
+}
+.discount{
+	display:inline-block;
+	color:#fff;
+	font-weight:600;
+}
+.discount-rupee
+{
+	margin-left:10px;
+	/*margin-right:5px;*/
+	color:#fff;
+}
